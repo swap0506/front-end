@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+
 
 ## Project info
 
@@ -43,6 +43,7 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+  deploy link-https://swapna.vercel.app/
 
 
 
